@@ -17,5 +17,5 @@ This repository contains a Power BI file analyzing customer churn for Databel.
 2. Open the file in Power BI Desktop.
 3. Explore the interactive dashboards and visualizations to gain insights into customer churn.
 
-- **Download the Power BI report file**: [Download](https://github.com/hichambendaoud/Customer-Churn-Analysis-Databel/main/customer_churn.pbix)
+- **Download the Power BI report file**: [Download](https://github.com/hichambendaoud/Customer-Churn-Analysis-Databel./blob/main/customer_churn.pbix)
 
