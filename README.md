@@ -13,7 +13,7 @@ This repository contains a Power BI file analyzing customer churn for Databel.
 
 **How to Use:**
 
-1. Download the `customer_churn_(Hicham Ben daoud).pbix` file.
+1. Download the `customer_churn.pbix` file.
 2. Open the file in Power BI Desktop.
 3. Explore the interactive dashboards and visualizations to gain insights into customer churn.
 
